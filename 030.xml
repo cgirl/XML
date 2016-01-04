@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tianqi>
-    <yesterday>今天下雪了</yesterday>
+    <yesterday>今天下雪了
+    <high>4</high>
+    <low>-3</low>
+    </yesterday>
     <today>今天下雪了</today>
     <tomrrow>今天下雪了</tomrrow>
+    <h1>xml的语法严格，该行错误，运行结果错误，无法运行
 </tianqi>
