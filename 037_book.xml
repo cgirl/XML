@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book category="COOKING">
+        <title lang="en">Everyday Italian</title>
+        <author>Giada</author>
+        <year>2005</year>
+        <price>28.8</price>
+    </book>
+    <book category="武侠">
+        <title lang="中文">十八哥诗集</title>
+        <author>燕十八</author>
+        <year>2014</year>
+        <price>299</price>
+    </book>
+    <book category="网页">
+        <title lang="中文">Jquery 7日通</title>
+        <author>佚名</author>
+        <year>2003</year>
+        <price>49.9</price>
+    </book>
+    <book category="网页">
+        <title lang="en">XML</title>
+        <author>Ray</author>
+        <year>2004</year>
+        <price>19.9</price>
+        <edition>第三版</edition>
+    </book>
+</bookstore>
