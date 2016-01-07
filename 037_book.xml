@@ -25,4 +25,5 @@
         <price>19.9</price>
         <edition>第三版</edition>
     </book>
+    <a><title>我是测试title</title></a>
 </bookstore>
